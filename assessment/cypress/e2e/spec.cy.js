@@ -1,5 +1,5 @@
 describe("GitHub User Finder", () => {
-  const url = "http://localhost:5173";
+  const url = "https://me-fe-xgithubdetails.vercel.app/";
 
   beforeEach(() => {
     cy.visit(url);

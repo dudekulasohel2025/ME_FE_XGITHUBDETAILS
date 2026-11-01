@@ -1,0 +1,6 @@
+{
+    "Test Case 1: GitHub User Finder - 1) shows the centered card with title, subtitle, input and button, and empty state": "TEST_STATUS_SUCCESS",
+    "Test Case 2: GitHub User Finder - 2) shows validation error when searching with empty input (no API call)": "TEST_STATUS_SUCCESS",
+    "Test Case 3: GitHub User Finder - 3) fetches and displays a user on success (stubbed) and supports Enter key": "TEST_STATUS_SUCCESS",
+    "Test Case 4: GitHub User Finder - 4) handles 404 then succeeds on retry": "TEST_STATUS_SUCCESS"
+}
